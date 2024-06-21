@@ -1,2 +1,2 @@
-practicing devops in daily basis.
-Top devops tools git,github,docker,dockerhub,maven,kubernetes,jenkins,ansible,terraform etc.
+practicing DevOps in daily basis.
+Top DevOps tools Git,Github,Docker,Dockerhub,Maven,Kubernetes,Jenkins,Ansible,Terraform etc.

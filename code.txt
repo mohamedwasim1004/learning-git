@@ -1,6 +1,6 @@
 public static void main(String[]args){
 class java example
-int a = 10;
+int a = 20;
 int b = 30;
 int sum = a+b;
 system.out.println(sum);
